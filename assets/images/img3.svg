@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#e2e2e2"/>
+  <path d="M200 700 L1000 700 L900 200 L300 200 Z" fill="#d6d6d6"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#808080" font-family="Noto Sans KR, sans-serif" font-size="64">IMG 3</text>
+</svg>

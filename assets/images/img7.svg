@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#f0f0f0"/>
+  <path d="M200 600 Q400 120 800 220 T1000 600 V750 H200 Z" fill="#d3d3d3"/>
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" fill="#757575" font-family="Noto Sans KR, sans-serif" font-size="64">IMG 7</text>
+</svg>

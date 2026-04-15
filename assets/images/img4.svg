@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#e8e8e8"/>
+  <circle cx="340" cy="340" r="180" fill="#d1d1d1"/>
+  <rect x="560" y="200" width="520" height="320" rx="24" fill="#cacaca"/>
+  <text x="50%" y="60%" dominant-baseline="middle" text-anchor="middle" fill="#7d7d7d" font-family="Noto Sans KR, sans-serif" font-size="64">IMG 4</text>
+</svg>

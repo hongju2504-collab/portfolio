@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#eaeaea"/>
+  <rect x="150" y="150" width="900" height="600" rx="28" fill="#d7d7d7"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#7b7b7b" font-family="Noto Sans KR, sans-serif" font-size="64">IMG 6</text>
+</svg>
