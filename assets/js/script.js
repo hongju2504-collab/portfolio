@@ -61,7 +61,7 @@ function nextGridSlide() {
   updateGridSlider();
 }
 
-// Auto slide every 2.5 seconds
+
 setInterval(nextGridSlide, 2500);
 
 window.addEventListener('load', updateGridSlider);
